@@ -1,8 +1,25 @@
-# 𓈒🐇 ೀ
-## Hi, I am Ru!
-౨ৎ I am a young tech beginner.<br/>
-౨ৎ I took a lot of basic courses in the past 3 years to understand the concepts of coding and programming. <br>
-౨ৎ I know Python and am beginning in problem solving on LeetCode. <br>
-౨ৎ I began studying frontend and backend web development. <br>
-౨ৎ I am going to publish my newbie projects that I made before and my coming projects <br>
-౨ৎ Here is my instagram account [https://www.instagram.com/techwithru/]
+### 𓈒🐇 ೀ Welcome to Tech with Ru!
+## Hi, I’m Ru!
+
+## ౨ৎ I'm a passionate tech beginner exploring the world of coding, software development, and web technologies. This repository is a place where I share my journey, mini projects, and learning experiences as I grow into a full-fledged developer.
+
+# 🌱 About Me
+
+💻 I’m a self-taught developer with 3+ years of learning experience. <br>
+🧠 I've completed various introductory courses in computer science, programming, and software development. <br>
+🐍 I write code in Python and have started solving coding problems on LeetCode to improve my problem-solving skills. <br>
+🌐 I'm currently learning full-stack web development – covering both frontend (HTML, CSS, JavaScript) and backend (Node.js, databases). <br>
+📂 I’ll be uploading my beginner projects, both old and new, as I continue building and learning!
+
+# 🚀 What You’ll Find in This Repository
+
+🧩 Beginner-friendly coding projects <br>
+💡 Practice problems & solutions from LeetCode <br>
+🌎 Web development mini-projects (frontend & backend) <br>
+🛠️ Personal experiments, notes, and tutorials
+
+# 📸 Stay Connected
+
+#Follow my tech journey on Instagram 👉 @techwithru
+
+I share updates, coding tips, and snippets of my learning process!
