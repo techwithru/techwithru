@@ -1,7 +1,7 @@
-# 𓈒🐇 ೀ Welcome to Tech with Ru!
-## Hi, I’m Ru!
+## 𓈒🐇 ೀ Welcome to Tech with Ru!
+### Hi, I’m Ru!
 
-## ౨ৎ I'm a passionate tech beginner exploring the world of coding, software development, and web technologies. This repository is a place where I share my journey, mini projects, and learning experiences as I grow into a full-fledged developer.
+### ౨ৎ I'm a passionate tech beginner exploring the world of coding, software development, and web technologies. This repository is a place where I share my journey, mini projects, and learning experiences as I grow into a full-fledged developer.
 
 ### 🌱 About Me
 
