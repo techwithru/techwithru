@@ -1,5 +1,5 @@
 # 𓈒🐇 ೀ
-## Hi, I am Ru
+## Hi, I am Ru!
 ౨ৎ I am a young tech beginner.<br/>
 ౨ৎ I took a lot of basic courses in the past 3 years to understand the concepts of coding and programming. <br>
 ౨ৎ I know Python and am beginning in problem solving on LeetCode. <br>
