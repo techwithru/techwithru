@@ -20,6 +20,6 @@
 
 ### 📸 Stay Connected
 
-### Follow my tech journey on Instagram 👉 @techwithru
+### Follow my tech journey on Instagram 👉 <a href="https://www.instagram.com/techwithru/">@techwithru</a>
 
 I share updates, coding tips, and snippets of my learning process!
